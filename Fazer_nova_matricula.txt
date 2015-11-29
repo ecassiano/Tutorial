@@ -1,2 +1,3 @@
 folha matricula.
--assinatura resp.
+    -assinatura resp.
+- direito de imagem
