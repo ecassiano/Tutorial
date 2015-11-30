@@ -2,3 +2,4 @@ folha matricula.
     -assinatura resp.
 - direito de imagem
     -ass. resp
+-termo responsabilidade
